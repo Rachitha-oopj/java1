@@ -21,7 +21,7 @@ public class Tools{
         }
         System.out.println();
     }
-    public void mult3()
+    public void mult3(int n)
     {
         for(int i=0;i<=n;i+=3)
         {
@@ -29,7 +29,7 @@ public class Tools{
         }
         System.out.println();
     }
-    public void mult4()
+    public void mult4(int n)
     {
         for(int i=0;i<=n;i+=4)
         {
@@ -37,7 +37,7 @@ public class Tools{
         }
         System.out.println();
     }
-    public void mult5()
+    public void mult5(int n)
     {
         for(int i=0;i<=n;i+=5)
         {
